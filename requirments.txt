@@ -1,0 +1,4 @@
+playsound
+pyshortcuts
+rotate-screen
+pywin32
